@@ -1,9 +1,5 @@
 ### Node Token Autenticação
-  
- 
- Este repositório usa JSON Web Tokens e o pacote [jsonwebtoken] (https://github.com/auth0/node-jsonwebtoken) para implementar a autenticação baseada em token em uma simples API Node.js.
- Este é um ponto de partida para demonstrar o método de autenticação, verificando um token usando o middleware da rota Express.
- 
+
  
  ### Requerimentos
  
